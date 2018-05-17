@@ -1,0 +1,11 @@
+# mac
+*.DS_Store
+
+# ide
+.idea
+
+# libraries
+node_modules
+
+# logs
+npm-debug.log
